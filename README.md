@@ -1,2 +1,3 @@
 # googlelink
-dont question it
+dont question it  
+[google](https://google.com)
